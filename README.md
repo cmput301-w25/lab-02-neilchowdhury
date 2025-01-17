@@ -17,6 +17,10 @@ https://developer.android.com/develop/ui/views/touch-and-input/keyboard-input/st
 
 https://developer.android.com/reference/kotlin/androidx/constraintlayout/compose/Visibility
 
+https://developer.android.com/reference/android/widget/ArrayAdapter#notifyDataSetChanged()
+
+https://developer.android.com/reference/android/util/Log
+
 ## Verbal Collaboration
 
 | Student Name | CCID      |
