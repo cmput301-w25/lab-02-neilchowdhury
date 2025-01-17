@@ -8,10 +8,13 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+
 https://developer.android.com/develop/ui/views/components/button
+
 https://developer.android.com/develop/ui/views/layout/constraint-layout
+
 https://developer.android.com/develop/ui/views/touch-and-input/keyboard-input/style
+
 https://developer.android.com/reference/kotlin/androidx/constraintlayout/compose/Visibility
 
 ## Verbal Collaboration
